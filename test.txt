@@ -4,3 +4,6 @@ blue
 
 black
 white
+
+brown
+gray
