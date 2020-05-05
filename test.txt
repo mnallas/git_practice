@@ -1,1 +1,4 @@
 purple
+red
+blue
+yellow
