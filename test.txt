@@ -2,3 +2,7 @@ purple
 red
 blue
 yellow
+
+green
+teal
+brown
